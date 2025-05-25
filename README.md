@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3293d0b2-24e9-486b-b9c2-3fbd717bc9e8)# Лабораторная работа №7
+# Лабораторная работа №7
 
 ## Ход работы
 
